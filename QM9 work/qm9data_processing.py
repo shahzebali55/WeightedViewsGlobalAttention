@@ -119,7 +119,7 @@ def process_qm9_files(directory, max_molecules=500):
     all_targets = np.array(all_targets, dtype=np.float32)
 
     print(f"Total .xyz files processed: {len(all_molecules)}")
-    print(f"Target array shape: {all_targets.shape}")   # should be (500, 12) if all works
+    print(f"Target array shape: {all_targets.shape}")  
 
     return all_molecules, all_targets
 
@@ -128,7 +128,7 @@ def process_qm9_files(directory, max_molecules=500):
 directory_path = "qm9_data"
 
 # run
-all_molecules, y = process_qm9_files(directory_path, max_molecules=50)
+all_molecules, y = process_qm9_files(directory_path, max_molecules=500)
 
 
    
