@@ -1,0 +1,12 @@
+
+first line: represents number of atoms in a molecule (5 atoms) <br>
+
+second line: mol_id (gdb1), rotational constant (157.7118) (unit: Ghz), rotational constant (157.70997) (unit: Ghz), rotational constant (157.70699) (unit:Ghz), mu (dipole moment unit: D, 0), <br>
+
+alpha (isotropic polarizability unit: Bohr^3 13.21), home (highest occupied molecular orbital energy unit: hartree -0.3877), lumo (lowest unoccupaid molecular orbital energy unit hartree 0.1171), <br>
+
+gap (gap between Homo and Lumo unit: hartree 0.5048) <br>
+
+third line: r2 (electronic spatial extent unit: bohr^2 35.36), zpve (zero point vibrational energy unit: hartree 0.044749), u0 (internal energy at 0k unit: hartree -40.47893), u298 (internal energy at 298.15k unit: hartree -40.476062), h298 (enthalpy at 298.15k unit: hartree -40.475117), g298 (free energy at 298.15k unit: hartree -40.498597) cv (heat capavity at 298.15k unit: cal/mol*k 6.469) <br>
+
+fourth line: element type, coordinates (x,y,z, in Angstrom), mulliken partial charges (in e ) on atoms <br>
